@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Gabriel Isidorio
 
-<!--
-**gisidorio/gisidorio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor .NET com foco em backend e APIs  
+🚀 Experiência com C#, ASP.NET Core e SQL Server  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tecnologias
+
+- C#
+- ASP.NET Core
+- SQL Server
+- Docker
+- AWS
+
+---
+
+## 📌 Projetos em destaque
+
+### 🛒 CandyHill - E-commerce
+API de e-commerce com arquitetura limpa e boas práticas  
+- Autenticação com JWT  
+- CRUD de produtos e pedidos  
+- Integração com banco SQL Server  
+
+👉 (coloque o link do repo aqui)
+
+---
+
+## 📫 Contato
+
+- LinkedIn: https://www.linkedin.com/in/gabriel-isidorio-64741a60/
+- Email: gabrielgoncalves2008@msn.com
