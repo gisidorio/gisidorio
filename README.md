@@ -21,7 +21,7 @@ API de e-commerce com arquitetura limpa e boas práticas
 - CRUD de produtos e pedidos  
 - Integração com banco SQL Server  
 
-👉 (coloque o link do repo aqui)
+https://github.com/gisidorio/ecommerce-candy-hill-web-API
 
 ---
 
