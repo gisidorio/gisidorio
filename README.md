@@ -10,9 +10,7 @@
 - C#
 - ASP.NET Core
 - SQL Server
-- Docker
-- AWS
-
+- Git
 ---
 
 ## 📌 Projetos em destaque
