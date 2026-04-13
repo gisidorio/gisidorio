@@ -34,7 +34,7 @@ Aplicação web para consumo da API:
 - Consumo de recomendações com IA
 - Organização de componentes e serviços
 
-🔗 (adicione aqui o link do repositório Angular)
+🔗 https://github.com/gisidorio/ecommerce-candyhillweb-frontend
 
 ---
 
