@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Gabriel Isidorio
+# 👋 Olá, eu sou o Gabriel 
 
 💻 Desenvolvedor .NET com foco em backend e APIs  
 🚀 Experiência com C#, ASP.NET Core e SQL Server  
